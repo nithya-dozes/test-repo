@@ -9,9 +9,11 @@ https://www.geeksforgeeks.org/how-to-read-data-from-sqlite-database-in-android/
 resource for ui of example/activity_main.xml 
 
 https://www.youtube.com/watch?v=WAejZCkLJAI
-for DHelper.java
+for DHelper.java, Main_Activity.java
 
 the remaining two list_of_events.xml and java files are empty
+
+
 
 
 
